@@ -1,0 +1,2 @@
+# newopt
+Golang struct initialization
